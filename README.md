@@ -4,7 +4,7 @@ Unblocked Just  platformer
 
 ## Play It
 
-- [Main Game](https://thetastypi.github.io/just-a-platformer/index.html)
+- [Main Game](https://danteandhubble.github.io/just-a-platformer/index.html)
 
 ## Credits
 
