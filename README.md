@@ -1,6 +1,6 @@
 # just a platformer [UNBLOCKED]
 
-Unblocked Just  platformer
+Unblocked Just  platformer (frick u securly)
 
 ## Play It
 
