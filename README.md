@@ -1,10 +1,10 @@
 # just a platformer [UNBLOCKED]
 
-Unblocked Just  platformer (frick u securly)
+LMAO SECURLY ACTUALLY THOUGHT
 
 ## Play It
 
-- [Main Game](https://danteandhubble2.github.io/just-a-platformer-unblocked/index.html)
+- [Main Game](https://danteandhubble3.github.io/just-a-platformer-unblocked/index.html)
 
 ## Credits
 
