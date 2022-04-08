@@ -13,7 +13,7 @@ LMAO SECURLY ACTUALLY THOUGHT
 - [TheTastyPi](https://thetastypi.github.io/)
 - [aShorterName](https://github.com/aShorterName)
 - [Yhvr](https://yhvr.me/)
-- [Me](https://github.com/DanteAndHubble)
+- [Me](https://github.com/DanteAndHubble) (danteandhubble3 is an alt)
 
 ### Libraries
 
